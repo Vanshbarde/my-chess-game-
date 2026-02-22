@@ -13,7 +13,7 @@ This project delivers a fast, responsive, and scalable AI experience with a clea
 
 Access the live version here:
 
-👉 https://ai.studio/apps/9a6eb6d6-33d6-4623-85c6-7506f996d33d
+👉[ https://ai.studio/apps/9a6eb6d6-33d6-4623-85c6-7506f996d33d](https://cyber-chess-neon-gambit-414846039308.us-west1.run.app/)
 
 ---
 
