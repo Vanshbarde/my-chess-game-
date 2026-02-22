@@ -4,23 +4,36 @@
 
 # 🚀 AI App
 
-A modern AI-powered web application built with Node.js.  
-This project is designed to run locally and can be easily configured using environment variables.
+A modern AI-powered web application built using Node.js and the Gemini API.  
+This project delivers a fast, responsive, and scalable AI experience with a clean development setup.
+
+---
+
+## 🌐 Live Application
+
+Access the live version here:
+
+👉 https://ai.studio/apps/9a6eb6d6-33d6-4623-85c6-7506f996d33d
 
 ---
 
 ## 📌 Overview
 
-This application provides an interactive AI experience powered by the Gemini API.  
-It is built with a clean structure, optimized performance, and easy deployment setup.
+This application provides intelligent AI-generated responses through a smooth and interactive user interface.  
+It is designed with performance, simplicity, and scalability in mind.
 
-### ✨ Features
+The project follows modern development standards and supports easy local setup using environment variables.
 
-- AI-powered responses
-- Fast and responsive interface
-- Environment-based configuration
-- Clean and scalable project structure
-- Easy local development setup
+---
+
+## ✨ Features
+
+- AI-powered chat functionality  
+- Clean and responsive UI  
+- Environment-based configuration  
+- Scalable project structure  
+- Easy local development setup  
+- Production-ready build configuration  
 
 ---
 
@@ -29,6 +42,7 @@ It is built with a clean structure, optimized performance, and easy deployment s
 - Node.js  
 - JavaScript  
 - Gemini API  
+- Modern Frontend Framework  
 
 ---
 
